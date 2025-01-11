@@ -1,1 +1,1 @@
-print('Hi')
+print(1740)
